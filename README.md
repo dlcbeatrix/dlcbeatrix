@@ -17,7 +17,7 @@ You can check my projects here on github! Some are correlated to courses at my U
 * **Tools & Environment:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 🎧 When I'm not coding
-You can usually find me analyzing F1 races, expanding my collection diecast models, or listening to my favorite music (which includes many genres) to keep my focus up!
+You can usually find me analyzing F1 races, expanding my collection of diecast models, or listening to my favorite music (which includes many genres) to keep my focus up!
 
 ### 📫 Let's connect
 - 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/tuo-profilo-qui](https://www.linkedin.com/in/beatrice-de-luca-08385622b/))
