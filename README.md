@@ -22,3 +22,5 @@ You can usually find me analyzing F1 races, expanding my collection of diecast m
 ### 📫 Let's connect
 - 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/tuo-profilo-qui](https://www.linkedin.com/in/beatrice-de-luca-08385622b/))
 - 🏎️ Always open to discussing motorsport technology, telemetry data, or software engineering opportunities!
+
+<img src= "https://github-readme-widget-gamma.vercel.app/api/pet" alt="GitHub Profile Pet" align = "right" />
